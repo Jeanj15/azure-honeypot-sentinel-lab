@@ -45,7 +45,7 @@ Built a honeypot in Azure, simulated brute-force attacks, centralized event logs
 - Created Sentinel instance and linked it to LAW
 - Connected “Windows Security Events via AMA” data connector
 - Queried failed login events using KQL:
-<img width="3012" height="1498" alt="image" src="https://github.com/user-attachments/assets/21eae262-3bba-4cfe-92dc-466ebd5ae6d2" />
+   <img width="3012" height="1498" alt="image" src="https://github.com/user-attachments/assets/21eae262-3bba-4cfe-92dc-466ebd5ae6d2" />
 
 ```kql
 SecurityEvent
